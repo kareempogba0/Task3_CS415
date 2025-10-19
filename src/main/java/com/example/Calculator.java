@@ -16,4 +16,7 @@ public class Calculator {
         }
         return (double) a / b;
     }
+    public int square(int x){
+        return x*x;
+    }
 }
